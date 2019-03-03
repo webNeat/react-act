@@ -1,6 +1,6 @@
 {
   "name": "react-act",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A way to avoid calling `act()` when testing React hooks.",
   "main": "index.js",
   "scripts": {
